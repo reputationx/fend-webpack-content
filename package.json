@@ -14,5 +14,6 @@
     "express": "^4.17.1",
     "webpack": "^4.35.3",
     "webpack-cli": "^3.3.5"
-  }
+  },
+  "build" :"webpack"
 }
